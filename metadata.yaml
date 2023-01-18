@@ -1,0 +1,26 @@
+_repo: The-Italian-Alp-bee_69676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hermann, H. C.
+    gutenberg_agent_id: '55370'
+    url: http://www.gutenberg.org/2009/agents/55370
+description: ''
+gutenberg_issued: '2023-01-01'
+identifiers:
+  gutenberg: '69676'
+language: en
+pgterms:marc904: https://archive.org/details/Hermann1860il91T
+pgterms:marc905: 20221107181804hermann
+pgterms:marc906: '1860'
+pgterms:marc907: UK
+production_note: Tom Cosmas compiled from materials made available at The Internet
+  Archive and placed in the Public Domain.
+publication_note: 'UK: Geo. Neighbor and Sons,1860.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Italian Alp-bee
+url: http://www.gutenberg.org/ebooks/69676
