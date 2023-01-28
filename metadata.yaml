@@ -1,11 +1,16 @@
 _repo: The-Italian-Alp-bee_69676
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69676-h/images/cover.png
 creator:
   author:
     agent_name: Hermann, H. C.
     gutenberg_agent_id: '55370'
     url: http://www.gutenberg.org/2009/agents/55370
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69676#The-Italian-Alp-bee
 gutenberg_issued: '2023-01-01'
 identifiers:
   gutenberg: '69676'
